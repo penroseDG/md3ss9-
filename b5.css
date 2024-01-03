@@ -1,0 +1,17 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.baiso5{
+    width:300px;
+    height:200px;
+    background-color:grey;
+    text-align:center;
+    line-height: 200px;
+    padding-right: 30px;
+    font-size: 250%;
+}
+.baiso5:hover{
+    background-color: rgb(0, 4, 255);
+}
